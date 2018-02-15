@@ -1,7 +1,7 @@
 <h2> Calcul renouvellement période d'essai</h2>
 
 <?PHP
-/*Le projet est caduc , à fermer rapidement
+/*Le projet est caduque , à fermer rapidement
 
  */
 
