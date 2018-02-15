@@ -1,10 +1,8 @@
 <h2> Calcul renouvellement période d'essai</h2>
 
 <?PHP
-/* Anthony, Dylan,
-  Arretez de vous br**** les c***** et travailler un peu !!!!!!!
-  Cordialement
-  Raphael
+/*Le projet est caduc , à fermer rapidement
+
  */
 
 $nom;
